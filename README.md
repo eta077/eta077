@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @eta077
-- 👀 I’m interested in all things Rust
+- 👀 I’m interested in
+  * All things Rust
+  * Network design
+  * Physics / Astronomy
+  * Gaming
 
 <!---
 eta077/eta077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
